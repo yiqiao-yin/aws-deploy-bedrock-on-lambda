@@ -1,0 +1,6 @@
+{
+    "prompt": "What is 1+2?",
+    "maxTokenCount": 10,
+    "temperature": 0.5,
+    "topP": 0.8
+}
