@@ -2,6 +2,8 @@
 
 This guide walks you through setting up an **AWS Lambda function** that invokes **Amazon Titan** on **AWS Bedrock**, deploys it with **API Gateway**, and allows invoking it from external scripts in **Python, Node.js, and Swift**.
 
+![main](./docs/SYSTEM.png)
+
 ---
 
 ## 📌 **Step 1: Prepare Lambda Function**
